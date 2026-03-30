@@ -1,2 +1,2 @@
 # hello-world
-My first step into the dev world.
+Hello World! I am learning GitHub and this is my first official change.
